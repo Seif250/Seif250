@@ -32,7 +32,3 @@ Currently, I'm focused on learning new tools to build smarter applications.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seif-ezz-radwan/)  
 
 ---
-
-## 📈 GitHub Stats:  
-![Seif's GitHub Stats]()  
-![Top Langs]()  
