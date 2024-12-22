@@ -10,9 +10,6 @@
 <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png">
 </p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Seif250&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</div>
 
 <img align="right" height="180" width="180" alt="Solo Leveling" src="https://media.tenor.com/dpNNNGcG0B0AAAAi/sung-jin-woo-solo-leveling.gif"/>
 
