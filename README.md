@@ -1,34 +1,101 @@
-# Hi 👋, I'm Seif  
-A passionate **Computer Programmer** from **Egypt**.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Seif&fontSize=80&animation=fadeIn&fontAlignY=35" />
+</div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=ARISE+👑;Computer+Programmer+⚔️;AI+Enthusiast+🔮&center=true&size=30&width=450&height=50">
+</h1>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png">
+</p>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Seif250&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</div>
+
+<img align="right" height="180" width="180" alt="Solo Leveling" src="https://media.tenor.com/dpNNNGcG0B0AAAAi/sung-jin-woo-solo-leveling.gif"/>
+
+## 💫 About Me
+```javascript
+const Seif = {
+    title: "Shadow Monarch 👑",
+    location: "Egypt 🇪🇬",
+    role: "Computer Programmer",
+    passions: ["Problem Solving", "Innovation", "Technology"],
+    currentFocus: ["AI", "Data Analysis", "Machine Learning"],
+    status: "I LEVEL UP, THEREFORE I AM ⚔️"
+};
+
+// Life motto
+while (alive) {
+    levelUp();
+    code();
+    arise();
+    repeat();
+}
+```
+
+<img align="left" height="150" width="150" src="https://raw.githubusercontent.com/CyrisXD/CyrisXD/master/assets/pac-man.gif"/>
+
+## 🚀 What I'm Up To
+
+- 🔮 Currently working on **innovative ML projects**
+- ⚔️ Deep diving into **AI and Data Analysis**
+- 👑 Looking to collaborate on **open-source AI projects**
+- 💬 Ask me about **Programming, AI, and Technology**
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+## ⚡ Technologies
+
+<div align="center">
+
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<details>
+<summary>📊 GitHub Stats</summary>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Seif250&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Seif250&theme=radical&hide_border=true" />
+</div>
+</details>
+
+<img align="right" alt="Solo Leveling" src="https://media.tenor.com/H2nPN3kDPBUAAAAi/sung-jin-woo.gif" width="180px" height="180px"/>
+
+## 🌟 Top Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seif250&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+## 🤝 Let's Connect
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seif-ezz-radwan/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Seif250)
+
+</div>
 
 ---
-
-## 🌱 Currently Learning:  
-- **Artificial Intelligence (AI)**  
-- **Data Analysis**  
-- **Machine Learning**  
-
----
-
-## 💬 About Me:  
-I love creating solutions that blend creativity and technology.  
-Currently, I'm focused on learning new tools to build smarter applications.  
-
----
-
-## 🛠️ Languages and Tools:  
-- **Programming Languages:**  
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-
-- **Tools & Technologies:**  
-  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)  
-
----
-
-## 🔗 Connect With Me:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seif-ezz-radwan/)  
-
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Seif250&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+</div>
