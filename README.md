@@ -38,7 +38,7 @@ while (alive) {
 
 <img align="left" height="150" width="150" src="https://raw.githubusercontent.com/CyrisXD/CyrisXD/master/assets/pac-man.gif"/>
 
-## 🚀 What I'm Up To
+##🚀 What I'm Up To
 
 - 🔮 Currently working on **innovative ML projects**
 - ⚔️ Deep diving into **AI and Data Analysis**
