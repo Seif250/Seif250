@@ -72,28 +72,27 @@ motto: "ARISE. Keep learning. Keep building. 🖥️"
 
 ---
 
-## 🏆 XP & Achievements — GitHub Stats
+## 🏆 XP & Achievements — GitHub
 
 <div align="center">
 
 <a href="https://github.com/Seif250">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Seif250&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF" width="48%"/>
-
+  <img src="https://img.shields.io/github/followers/Seif250?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=00AEEF" />
 </a>
 
-<a href="https://github.com/Seif250">
+<a href="https://github.com/Seif250?tab=repositories">
+  <img src="https://img.shields.io/badge/REPOSITORIES-VIEW-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seif250&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF" width="48%"/>
-
+<a href="https://github.com/Seif250?tab=stars">
+  <img src="https://img.shields.io/badge/STARS-VIEW-00FF88?style=for-the-badge&logo=github&logoColor=111111" />
 </a>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=Seif250&theme=radical&hide_border=true&background=0D1117&ring=00FF88&fire=FF6F6F&currStreakLabel=00FF88" width="70%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Seif250&theme=github_dark" width="95%" />
 
 </div>
-
 ---
 
 ## 🐍 Contribution Snake (Level Progress Bar)
