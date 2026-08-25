@@ -68,14 +68,7 @@ Currently focusing on **Linux & Cybersecurity** through hands-on labs and challe
 <img src="https://img.shields.io/badge/Repositories-View%20Projects-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<br><br>
-
-<a href="https://github.com/Seif250">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Seif250&theme=github-compact&hide_border=true&area=true" width="90%"/>
-</a>
-
 </div>
-
 ---
 
 ## 🚀 Currently Learning
