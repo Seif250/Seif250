@@ -1,13 +1,16 @@
+```yaml
 name: Generate Snake Animation
 
 on:
   schedule:
-    # يشتغل كل يوم الساعة 12 بالليل UTC (تقدر تغيّرها)
+    # يشتغل كل يوم الساعة 12 بالليل UTC
     - cron: "0 0 * * *"
-  workflow_dispatch: {}  # يسمحلك تشغّله يدوي من تبويب Actions
+
+  workflow_dispatch:
+
   push:
     branches:
-      - main  # يشتغل أول ما تعمل push على main
+      - main
 
 permissions:
   contents: write
@@ -15,14 +18,17 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate a snake game from a github contribution grid
+      - name: Generate GitHub contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: Seif250
+
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?palette=github-dark
+
+            dist/github-contribution-grid-snake-dark.gif?color_snake=#00FF88&color_dots=#161B22,#0E4429,#006D32,#26A641,#39D353&color_background=#111827
 
       - name: Push output to output branch
         uses: crazy-max/ghaction-github-pages@v4
@@ -31,3 +37,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
