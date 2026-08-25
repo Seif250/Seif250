@@ -56,13 +56,23 @@ Currently focusing on **Linux & Cybersecurity** through hands-on labs and challe
 
 <div align="center">
 
+<a href="https://github.com/Seif250">
 <img src="https://img.shields.io/github/followers/Seif250?style=for-the-badge&logo=github&label=Followers"/>
+</a>
+
+<a href="https://github.com/Seif250">
 <img src="https://img.shields.io/github/stars/Seif250?style=for-the-badge&logo=github&label=Stars"/>
-<img src="https://img.shields.io/github/repos/Seif250?style=for-the-badge&logo=github&label=Repositories"/>
+</a>
+
+<a href="https://github.com/Seif250?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-View%20Projects-181717?style=for-the-badge&logo=github"/>
+</a>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seif250&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+<a href="https://github.com/Seif250">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Seif250&theme=github-compact&hide_border=true&area=true" width="90%"/>
+</a>
 
 </div>
 
