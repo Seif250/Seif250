@@ -1,23 +1,124 @@
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=HELLO+WORLD%2C+I'M+SEIF+%F0%9F%91%BE;LOADING+PLAYER+1...;LEVEL%3A+CS+STUDENT;CLASS%3A+CYBERSECURITY+%2B+AI" alt="Typing SVG" /> </div> <div align="center">
-██████╗ ██╗      █████╗ ██╗   ██╗███████╗██████╗
-██╔══██╗██║     ██╔══██╗╚██╗ ██╔╝██╔════╝██╔══██╗
-██████╔╝██║     ███████║ ╚████╔╝ █████╗  ██████╔╝
-██╔═══╝ ██║     ██╔══██║  ╚██╔╝  ██╔══╝  ██╔══██╗
-██║     ███████╗██║  ██║   ██║   ███████╗██║  ██║
-╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
-        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-        ░░ PRESS START TO SCROLL DOWN ░░
-</div> --- ## 🎮 About This Player
-yaml
-player_name: Seif
-class: Computer Science Student
-guild: 🛡️ Cybersecurity  |  🐧 Linux  |  🤖 AI / ML
-current_quest: "Learn · Build · Break · Fix · Repeat"
-status: Grinding XP in hands-on labs & CTF challenges
-motto: "ARISE. Keep learning. Keep building. 🖥️"
-<img src="https://media.giphy.com/media/artj92oQ8s9PS/giphy.gif" width="260" align="right"/> - 🐧 Learning **Linux**, Shell, Permissions, Users & Groups, Processes, sudo - 🛡️ Diving into **Cybersecurity** through hands-on labs & CTF challenges - 🌐 Exploring **Networking** fundamentals - 🤖 Building skills in **AI / ML** and **Data Analysis** - 🔧 Improving **Software Development** chops daily <br clear="right"/> --- ## 🧩 Tech Stack — Inventory <div align="center"> ### 🛡️ Cybersecurity & Linux ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624) ![Bash](https://img.shields.io/badge/Shell%2FBash-121011?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Kali](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) ### 💻 Programming & AI ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![AI](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ### 🌐 Networking & Tools ![Networking](https://img.shields.io/badge/Networking-005A9C?style=for-the-badge&logo=cisco&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) </div> --- ## 🏆 XP & Achievements — GitHub <div align="center"> <a href="https://github.com/Seif250"> <img src="https://img.shields.io/github/followers/Seif250?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=00AEEF" /> </a> <a href="https://github.com/Seif250?tab=repositories"> <img src="https://img.shields.io/badge/REPOSITORIES-VIEW-8B5CF6?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://github.com/Seif250?tab=stars"> <img src="https://img.shields.io/badge/STARS-VIEW-00FF88?style=for-the-badge&logo=github&logoColor=111111" /> </a> <br><br> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Seif250&theme=github_dark" width="95%" /> </div> --- ## 🐍 Contribution Snake (Level Progress Bar) <div align="center"> <img src="https://raw.githubusercontent.com/Seif250/Seif250/output/github-contribution-grid-snake.svg" alt="snake animation" /> </div> --- ## 🕹️ Currently Learning — Quest Log <div align="center"> | 🛡️ Cybersecurity | 🐧 Linux | 🌐 Networking | 🤖 AI / ML | 📊 Data Analysis | |:---:|:---:|:---:|:---:|:---:| | ⚔️ In Progress | ⚔️ In Progress | ⚔️ In Progress | ⚔️ In Progress | ⚔️ In Progress | </div> --- ## 🤝 Connect With Player 1 <div align="center"> <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://github.com/Seif250"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> </div> --- <div align="center">
-+-------------------------------------+
-|   ⭐ SCORE: ████████████░░░  85%   |
-|   ❤️ LIVES: 3      🪙 COINS: 999   |
-+-------------------------------------+
-### ⚡ ARISE. **Keep learning. Keep building. 🖥️** <img src="https://media.giphy.com/media/xUOxfjsdBH5h2qKS0g/giphy.gif" width="200"/> ![Visitor Count](https://komarev.com/ghpvc/?username=Seif250&color=00FF88&style=for-the-badge&label=GAME+SESSIONS) </div>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1200&color=00FF9C&center=true&vCenter=true&width=600&lines=whoami+%3E+seif+ezz;role%3A+cs+student+%2F%2F+cybersecurity;status%3A+learning+%C2%B7+building+%C2%B7+breaking+%C2%B7+fixing" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/root%40seif--250-2A2A2A?style=flat-square&logo=linux&logoColor=00FF9C&labelColor=0D1117" />
+
+</div>
+
+<br/>
+
+```bash
+seif@kali:~$ cat about.txt
+```
+
+> Computer Science student focused on **Cybersecurity**, **Linux**, and **AI / ML**.
+> Currently deep in hands-on labs and CTF challenges, sharpening skills in
+> Software Development, Networking, and Data Analysis along the way.
+>
+> **Learn · Build · Break · Fix · Repeat**
+
+<br/>
+
+```bash
+seif@kali:~$ ls -la ./focus
+```
+
+<div align="center">
+
+| Domain | Status |
+|---|---|
+| 🛡️ Cybersecurity | `in-progress` |
+| 🐧 Linux / Shell | `in-progress` |
+| 🌐 Networking | `in-progress` |
+| 🤖 AI / ML | `in-progress` |
+| 📊 Data Analysis | `in-progress` |
+
+</div>
+
+<br/>
+
+```bash
+seif@kali:~$ cat stack.json
+```
+
+<div align="center">
+
+**Cybersecurity & Linux**
+
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624)
+![Bash](https://img.shields.io/badge/Shell%2FBash-0D1117?style=flat-square&logo=gnu-bash&logoColor=4EAA25)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
+![Kali](https://img.shields.io/badge/Kali%20Linux-0D1117?style=flat-square&logo=kalilinux&logoColor=557C94)
+
+**Programming & AI**
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
+![C](https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=A8B9CC)
+![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![AI](https://img.shields.io/badge/AI%2FML-0D1117?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+
+**Networking & Tools**
+
+![Networking](https://img.shields.io/badge/Networking-0D1117?style=flat-square&logo=cisco&logoColor=1BA0D7)
+![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=flat-square&logo=wireshark&logoColor=1679A7)
+![VSCode](https://img.shields.io/badge/VS%20Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+
+</div>
+
+<br/>
+
+```bash
+seif@kali:~$ ./run_stats.sh --user seif250
+```
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats-gray-pi-39.vercel.app/api?username=Seif250&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9" />
+<img height="165em" src="https://github-readme-stats-gray-pi-39.vercel.app/api/top-langs/?username=Seif250&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" />
+
+<img src="https://streak-stats.demolab.com?user=Seif250&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
+
+</div>
+
+<br/>
+
+```bash
+seif@kali:~$ git log --graph --oneline --since="1 year ago"
+```
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Seif250/Seif250/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+
+</div>
+
+<br/>
+
+```bash
+seif@kali:~$ cat contact.txt
+```
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/seif-ezz-radwan/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0077B5" /></a>
+<a href="https://github.com/Seif250"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://www.facebook.com/seif.ezz27"><img src="https://img.shields.io/badge/Facebook-0D1117?style=flat-square&logo=facebook&logoColor=1877F2" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=D14836" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```bash
+seif@kali:~$ echo $STATUS
+> compiling knowledge... 0 errors, 0 warnings
+```
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Seif250&color=00FF9C&style=flat-square&label=visits)
+
+</div>
