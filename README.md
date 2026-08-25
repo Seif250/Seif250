@@ -76,10 +76,21 @@ motto: "ARISE. Keep learning. Keep building. 🖥️"
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats-gray-pi-39.vercel.app/api?username=Seif250&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88" />
-<img height="165em" src="https://github-readme-stats-gray-pi-39.vercel.app/api/top-langs/?username=Seif250&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88" />
+<a href="https://github.com/Seif250">
 
-<img src="https://streak-stats.demolab.com?user=Seif250&theme=radical&hide_border=true&background=0D1117&ring=00FF88&fire=FF6F6F" />
+<img src="https://github-readme-stats.vercel.app/api?username=Seif250&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF" width="48%"/>
+
+</a>
+
+<a href="https://github.com/Seif250">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seif250&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF" width="48%"/>
+
+</a>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=Seif250&theme=radical&hide_border=true&background=0D1117&ring=00FF88&fire=FF6F6F&currStreakLabel=00FF88" width="70%"/>
 
 </div>
 
