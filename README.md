@@ -1,112 +1,115 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Seif&fontSize=80&animation=fadeIn&fontAlignY=35" />
-</div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=ARISE+👑;Computer+Programmer+⚔️;AI+Enthusiast+🔮&center=true&size=30&width=450&height=50">
-</h1>
+# 👋 Hi, I'm Seif
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png">
+### 💻 Computer Science Student • 🛡️ Cybersecurity Enthusiast • 🤖 AI Explorer
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Code+%7C+Linux+%7C+Cybersecurity;Learning+%7C+Breaking+%7C+Building;AI+%7C+Machine+Learning+%7C+Data;ARISE+%E2%9A%94%EF%B8%8F" />
 </p>
-
-<img align="right" height="180" width="180" alt="Solo Leveling" src="https://media.tenor.com/dpNNNGcG0B0AAAAi/sung-jin-woo-solo-leveling.gif"/>
-
-## 💫 About Me
-```javascript
-const Seif = {
-    title: "Shadow Monarch 👑",
-    location: "Egypt 🇪🇬",
-    role: "Computer Programmer",
-    passions: ["Problem Solving", "Innovation", "Technology"],
-    currentFocus: ["AI", "Data Analysis", "Machine Learning"],
-    status: "I LEVEL UP, THEREFORE I AM ⚔️"
-};
-
-// Life motto
-while (alive) {
-    levelUp();
-    code();
-    arise();
-    repeat();
-}
-```
-
-<img align="left" height="150" width="150" src="https://raw.githubusercontent.com/CyrisXD/CyrisXD/master/assets/pac-man.gif"/>
-
-## 🚀 What I'm Up To
-
-- 🔮 Currently working on **innovative ML projects**
-- ⚔️ Deep diving into **AI and Data Analysis**
-- 👑 Looking to collaborate on **open-source AI projects**
-- 💬 Ask me about **Programming, AI, and Technology**
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-## 🛠️ I code with
-
-<div align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seif250&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Seif250&theme=radical&hide_border=true" />
-</div>
-
-<img align="right" alt="Solo Leveling" src="https://media.tenor.com/H2nPN3kDPBUAAAAi/sung-jin-woo.gif" width="180px" height="180px"/>
-
-## 🌟 Top Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seif250&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-
-## 🤝 Let's Connect
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seif-ezz-radwan/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Seif250)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yourportfolio.com)
 
 </div>
 
 ---
+
+## 🧠 About Me
+
+```text
+💻 Programming
+🐧 Linux & Git
+🛡️ Cybersecurity
+🌐 Networking
+🤖 AI & Machine Learning
+📊 Data Analysis
+```
+
+Currently learning **Cybersecurity & Linux** through hands-on labs, while building my foundation in **Software Development, AI, and Data**.
+
+> **Learn. Build. Break. Fix. Repeat. ⚡**
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Seif250&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,linux,bash,git,github,react,nextjs,nodejs,flutter,tensorflow,pytorch" />
+
+</div>
+
+---
+
+## 🐧 What I've Been Working With
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cybersecurity-8A2BE2?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/OverTheWire-Bandit-black?style=for-the-badge"/>
+
+</div>
+
+**Linux:** Commands • Permissions • Users & Groups • Processes • `sudo` • Shell
+**Security:** Linux fundamentals • System security • CTF-style challenges
+**Development:** C++ • Java • Python • JavaScript • Git
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Seif250&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Seif250&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seif250&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
+
+---
+
+## 🚀 Currently
+
+```text
+Cybersecurity  ███████████████░░░░░
+Linux          ████████████████░░░░
+Programming    ██████████████████░░
+AI / ML        █████████████░░░░░░░
+```
+
+**Next target → Cybersecurity ⚔️**
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+<a href="https://github.com/Seif250">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/seif-ezz-radwan/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Seif250&label=Profile%20Views&style=flat-square&color=8A2BE2"/>
+
+### ⚡ ARISE.
+
 </div>
