@@ -84,11 +84,7 @@ seif@kali:~$ ./run_stats.sh --user seif250
 <div align="center">
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Seif250&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9" />
-
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seif250&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=Seif250&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
 
 </div>
