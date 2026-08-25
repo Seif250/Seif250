@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Seif
 
-### 💻 Computer Science Student · 🛡️ Cybersecurity · 🤖 AI
+### 💻 Computer Science Student · 🛡️ Cybersecurity Enthusiast · 🤖 AI Explorer
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=21&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Cybersecurity+%7C+Linux+%7C+Programming;AI+%7C+Machine+Learning+%7C+Data;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Fix+%E2%9A%A1" />
 
@@ -16,11 +16,13 @@
 
 ## 🧠 About Me
 
-I'm a **Computer Science student** focused on:
+I'm a **Computer Science student** interested in:
 
-`💻 Programming` · `🐧 Linux` · `🛡️ Cybersecurity` · `🌐 Networking` · `🤖 AI / ML`
+💻 Programming · 🐧 Linux · 🛡️ Cybersecurity · 🌐 Networking · 🤖 AI / ML
 
-Currently building my foundations in **Linux & Cybersecurity** through hands-on labs and challenges, while continuing to develop my programming and AI skills.
+Currently focusing on **Linux & Cybersecurity** through hands-on labs and challenges, while building my skills in **Software Development, AI, and Data Analysis**.
+
+> **Learn · Build · Break · Fix · Repeat ⚡**
 
 ---
 
@@ -46,8 +48,7 @@ Currently building my foundations in **Linux & Cybersecurity** through hands-on 
 
 </div>
 
-**Learning & practicing:**
-Linux · Shell · Permissions · Users & Groups · Processes · `sudo` · Git · System Fundamentals · CTF-style Challenges
+**Learning:** Linux · Shell · Permissions · Users & Groups · Processes · `sudo` · Git · System Fundamentals · CTF Challenges
 
 ---
 
@@ -55,17 +56,13 @@ Linux · Shell · Permissions · Users & Groups · Processes · `sudo` · Git ·
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Seif250&theme=github_dark" height="180"/>
+<img src="https://img.shields.io/github/followers/Seif250?style=for-the-badge&logo=github&label=Followers"/>
+<img src="https://img.shields.io/github/stars/Seif250?style=for-the-badge&logo=github&label=Stars"/>
+<img src="https://img.shields.io/github/repos/Seif250?style=for-the-badge&logo=github&label=Repositories"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Seif250&theme=github_dark" height="180"/>
+<br><br>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Seif250&theme=github-dark-blue&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seif250&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 
 </div>
 
@@ -75,13 +72,27 @@ Linux · Shell · Permissions · Users & Groups · Processes · `sudo` · Git ·
 
 <div align="center">
 
-🛡️ **Cybersecurity**   ·  
-🐧 **Linux**   ·  
-🌐 **Networking**   ·  
-🤖 **AI / ML**   ·  
+🛡️ **Cybersecurity**
+  ·  
+🐧 **Linux**
+  ·  
+🌐 **Networking**
+  ·  
+🤖 **AI / ML**
+  ·  
 📊 **Data Analysis**
 
 </div>
+
+---
+
+## 🎯 Focus
+
+```text
+Cybersecurity  →  Linux  →  Networking  →  Software  →  AI
+```
+
+Building strong fundamentals, solving problems, and learning by doing.
 
 ---
 
