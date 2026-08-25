@@ -1,123 +1,143 @@
 <div align="center">
 
-# 👋 Hi, I'm Seif
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=HELLO+WORLD%2C+I'M+SEIF+%F0%9F%91%BE;LOADING+PLAYER+1...;LEVEL%3A+CS+STUDENT;CLASS%3A+CYBERSECURITY+%2B+AI" alt="Typing SVG" />
 
-### 💻 Computer Science Student · 🛡️ Cybersecurity · 🤖 AI
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=21&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Cybersecurity+%7C+Linux+%7C+Programming;AI+%7C+Machine+Learning+%7C+Data;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Fix+%E2%9A%A1" />
+<div align="center">
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Seif250&label=Profile%20Views&color=8B5CF6&style=flat-square"/>
+```
+██████╗ ██╗      █████╗ ██╗   ██╗███████╗██████╗
+██╔══██╗██║     ██╔══██╗╚██╗ ██╔╝██╔════╝██╔══██╗
+██████╔╝██║     ███████║ ╚████╔╝ █████╗  ██████╔╝
+██╔═══╝ ██║     ██╔══██║  ╚██╔╝  ██╔══╝  ██╔══██╗
+██║     ███████╗██║  ██║   ██║   ███████╗██║  ██║
+╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
+        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+        ░░ PRESS START TO SCROLL DOWN ░░
+```
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🎮 About This Player
 
-**Computer Science student** focused on:
+```yaml
+player_name: Seif
+class: Computer Science Student
+guild: 🛡️ Cybersecurity  |  🐧 Linux  |  🤖 AI / ML
+current_quest: "Learn · Build · Break · Fix · Repeat"
+status: Grinding XP in hands-on labs & CTF challenges
+motto: "ARISE. Keep learning. Keep building. 🖥️"
+```
 
-💻 Programming · 🐧 Linux · 🛡️ Cybersecurity · 🌐 Networking · 🤖 AI / ML
+<img src="https://media.giphy.com/media/artj92oQ8s9PS/giphy.gif" width="260" align="right"/>
 
-Currently learning **Linux & Cybersecurity** through hands-on labs and challenges, while improving my skills in **Software Development, AI, and Data Analysis**.
+- 🐧 Learning **Linux**, Shell, Permissions, Users & Groups, Processes, `sudo`
+- 🛡️ Diving into **Cybersecurity** through hands-on labs & CTF challenges
+- 🌐 Exploring **Networking** fundamentals
+- 🤖 Building skills in **AI / ML** and **Data Analysis**
+- 🔧 Improving **Software Development** chops daily
 
-> **Learn · Build · Break · Fix · Repeat ⚡**
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧩 Tech Stack — Inventory
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,linux,bash,git,github,react,nextjs,nodejs,flutter,tensorflow,pytorch"/>
+### 🛡️ Cybersecurity & Linux
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Bash](https://img.shields.io/badge/Shell%2FBash-121011?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+### 💻 Programming & AI
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![AI](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### 🌐 Networking & Tools
+
+![Networking](https://img.shields.io/badge/Networking-005A9C?style=for-the-badge&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
 
-## 🛡️ Cybersecurity & Linux
+## 🏆 XP & Achievements — GitHub Stats
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/OverTheWire-111827?style=for-the-badge&logo=linux&logoColor=8B5CF6"/>
-<img src="https://img.shields.io/badge/Bandit-111827?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Seif250&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seif250&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Seif250&theme=radical&hide_border=true&background=0D1117&ring=00FF88&fire=FF6F6F" />
 
 </div>
 
-**Learning:** Linux · Shell · Permissions · Users & Groups · Processes · `sudo` · Git · System Fundamentals · CTF Challenges
+> ⚠️ استبدل `Seif250` باسم المستخدم بتاعك على GitHub عشان الإحصائيات تشتغل صح.
 
 ---
 
-## 📊 GitHub
+## 🐍 Contribution Snake (Level Progress Bar)
 
 <div align="center">
 
-<a href="https://github.com/Seif250">
-<img src="https://img.shields.io/github/followers/Seif250?style=for-the-badge&logo=github&label=Followers"/>
-</a>
+<img src="https://raw.githubusercontent.com/Seif250/Seif250/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
-<a href="https://github.com/Seif250?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-View-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+</div>
 
-<a href="https://github.com/Seif250?tab=stars">
-<img src="https://img.shields.io/badge/Stars-View-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+> ده بيتفعّل تلقائي عن طريق GitHub Action اسمها **snk** — لو عايز أظبطلك الـ workflow ملف قولّي وهعمله.
 
-<br><br>
+---
 
-<a href="https://github.com/Seif250">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seif250&layout=compact&theme=github_dark&hide_border=true&langs_count=6" width="360"/>
-</a>
+## 🕹️ Currently Learning — Quest Log
+
+<div align="center">
+
+| 🛡️ Cybersecurity | 🐧 Linux | 🌐 Networking | 🤖 AI / ML | 📊 Data Analysis |
+|:---:|:---:|:---:|:---:|:---:|
+| ⚔️ In Progress | ⚔️ In Progress | ⚔️ In Progress | ⚔️ In Progress | ⚔️ In Progress |
 
 </div>
 
 ---
 
-## 🚀 Currently Learning
+## 🤝 Connect With Player 1
 
 <div align="center">
 
-🛡️ **Cybersecurity**   ·  
-🐧 **Linux**   ·  
-🌐 **Networking**   ·  
-🤖 **AI / ML**   ·  
-📊 **Data Analysis**
+<!-- استبدل الروابط دي بحساباتك الحقيقية -->
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/Seif250"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 </div>
 
 ---
 
-## 🤝 Connect
-
 <div align="center">
 
-<a href="https://github.com/Seif250">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/seif-ezz-radwan/">
-<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
+```
++-------------------------------------+
+|   ⭐ SCORE: ████████████░░░  85%   |
+|   ❤️ LIVES: 3      🪙 COINS: 999   |
++-------------------------------------+
+```
 
 ### ⚡ ARISE.
-
-<br>
-
-<img src="https://raw.githubusercontent.com/DenverCoder1/snk/output/github-contribution-grid-snake-dark.svg" width="700"/>
-
-<br>
-
 **Keep learning. Keep building. 🖥️**
+
+<img src="https://media.giphy.com/media/xUOxfjsdBH5h2qKS0g/giphy.gif" width="200"/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Seif250&color=00FF88&style=for-the-badge&label=GAME+SESSIONS)
 
 </div>
