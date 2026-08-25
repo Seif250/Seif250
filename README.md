@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Seif
 
-### 💻 Computer Science Student · 🛡️ Cybersecurity Enthusiast · 🤖 AI Explorer
+### 💻 Computer Science Student · 🛡️ Cybersecurity · 🤖 AI
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=21&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Cybersecurity+%7C+Linux+%7C+Programming;AI+%7C+Machine+Learning+%7C+Data;Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Fix+%E2%9A%A1" />
 
@@ -20,7 +20,7 @@
 
 💻 Programming · 🐧 Linux · 🛡️ Cybersecurity · 🌐 Networking · 🤖 AI / ML
 
-Currently building my **Linux & Cybersecurity** skills through hands-on labs and challenges, while continuing to develop in **Software Development, AI, and Data Analysis**.
+Currently learning **Linux & Cybersecurity** through hands-on labs and challenges, while improving my skills in **Software Development, AI, and Data Analysis**.
 
 > **Learn · Build · Break · Fix · Repeat ⚡**
 
@@ -61,17 +61,17 @@ Currently building my **Linux & Cybersecurity** skills through hands-on labs and
 </a>
 
 <a href="https://github.com/Seif250?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-View-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Repositories-View-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Seif250?tab=stars">
-<img src="https://img.shields.io/badge/Stars-View-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stars-View-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
 <a href="https://github.com/Seif250">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Seif250&theme=github-compact&hide_border=true&area=true" width="90%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seif250&layout=compact&theme=github_dark&hide_border=true&langs_count=6" width="360"/>
 </a>
 
 </div>
@@ -82,14 +82,10 @@ Currently building my **Linux & Cybersecurity** skills through hands-on labs and
 
 <div align="center">
 
-🛡️ **Cybersecurity**
-  ·  
-🐧 **Linux**
-  ·  
-🌐 **Networking**
-  ·  
-🤖 **AI / ML**
-  ·  
+🛡️ **Cybersecurity**   ·  
+🐧 **Linux**   ·  
+🌐 **Networking**   ·  
+🤖 **AI / ML**   ·  
 📊 **Data Analysis**
 
 </div>
@@ -105,7 +101,7 @@ Currently building my **Linux & Cybersecurity** skills through hands-on labs and
 </a>
 
 <a href="https://www.linkedin.com/in/seif-ezz-radwan/">
-<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -115,5 +111,13 @@ Currently building my **Linux & Cybersecurity** skills through hands-on labs and
 <div align="center">
 
 ### ⚡ ARISE.
+
+<br>
+
+<img src="https://raw.githubusercontent.com/DenverCoder1/snk/output/github-contribution-grid-snake-dark.svg" width="700"/>
+
+<br>
+
+**Keep learning. Keep building. 🖥️**
 
 </div>
