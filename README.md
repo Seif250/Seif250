@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Seif250&label=Profile%20Views&color=8B5CF6&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Seif250&label=Profile%20Views&color=8B5CF6&style=flat-square"/>
 
 </div>
 
@@ -16,11 +16,11 @@
 
 ## 🧠 About Me
 
-I'm a **Computer Science student** interested in:
+**Computer Science student** focused on:
 
 💻 Programming · 🐧 Linux · 🛡️ Cybersecurity · 🌐 Networking · 🤖 AI / ML
 
-Currently focusing on **Linux & Cybersecurity** through hands-on labs and challenges, while building my skills in **Software Development, AI, and Data Analysis**.
+Currently building my **Linux & Cybersecurity** skills through hands-on labs and challenges, while continuing to develop in **Software Development, AI, and Data Analysis**.
 
 > **Learn · Build · Break · Fix · Repeat ⚡**
 
@@ -30,7 +30,7 @@ Currently focusing on **Linux & Cybersecurity** through hands-on labs and challe
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,linux,bash,git,github,react,nextjs,nodejs,flutter,tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,linux,bash,git,github,react,nextjs,nodejs,flutter,tensorflow,pytorch"/>
 
 </div>
 
@@ -60,15 +60,22 @@ Currently focusing on **Linux & Cybersecurity** through hands-on labs and challe
 <img src="https://img.shields.io/github/followers/Seif250?style=for-the-badge&logo=github&label=Followers"/>
 </a>
 
-<a href="https://github.com/Seif250">
-<img src="https://img.shields.io/github/stars/Seif250?style=for-the-badge&logo=github&label=Stars"/>
+<a href="https://github.com/Seif250?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-View-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Seif250?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-View%20Projects-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/Seif250?tab=stars">
+<img src="https://img.shields.io/badge/Stars-View-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/Seif250">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Seif250&theme=github-compact&hide_border=true&area=true" width="90%"/>
 </a>
 
 </div>
+
 ---
 
 ## 🚀 Currently Learning
@@ -76,26 +83,16 @@ Currently focusing on **Linux & Cybersecurity** through hands-on labs and challe
 <div align="center">
 
 🛡️ **Cybersecurity**
-  ·  
+  ·  
 🐧 **Linux**
-  ·  
+  ·  
 🌐 **Networking**
-  ·  
+  ·  
 🤖 **AI / ML**
-  ·  
+  ·  
 📊 **Data Analysis**
 
 </div>
-
----
-
-## 🎯 Focus
-
-```text
-Cybersecurity  →  Linux  →  Networking  →  Software  →  AI
-```
-
-Building strong fundamentals, solving problems, and learning by doing.
 
 ---
 
